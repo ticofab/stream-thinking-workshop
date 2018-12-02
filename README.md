@@ -1,7 +1,6 @@
 # Stream Thinking Workshop
 
 Example code that uses Akka Streams to with my Stream Thinking workshop.
-Scala library based on [Akka](http://akka.io) to help connect to the [Kraken API](https://www.kraken.com/help/api) in a reactive way. Work in progress and contributions are very welcome.
 
 ## License
 
