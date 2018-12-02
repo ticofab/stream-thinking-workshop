@@ -1,4 +1,4 @@
-name := "meetupStreamWorkshop"
+name := "meetup-stream-workshop"
 
 version := "0.1.0"
 
